@@ -1,0 +1,14 @@
+-caratula
+-indice todav no
+-planteo del proyecto
+ con que se va a hacer,umlm argo python pygame
+-descripcion de argo, python, uml, py pg
+-requisitos del sistema
+resumen de como es el juego
+-caratula de diagramas
+diagrama de caso de uso, de clase, de objetos(relaciones)
+diagrama de clases, diagrama de secuencias
+-caratula anexo
+imagenes
+codigo del juego
+
